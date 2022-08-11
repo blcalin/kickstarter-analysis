@@ -1,0 +1,57 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+The purpose of this analysis is to understand the correlation between outcomes vs. goals, and theater outcomes by launch date over time.
+
+## Analysis and Challenges
+
+	*Two separate analyses were completed during this exercise
+	*The first analysis analyzed the relationship between outcomes based on goals
+	*The second analysis analyzed theater outcomes (successful, failed and canceled) based on launch date over time.
+	*The dataset provided presented its own level of challenge in that it is not all-encompassing. This is only a subset of data, presenting outliers/questions on what is being provided to analyze.
+	*By looking further into the trends presented in this dataset, the challenge of reviewing a small selection of data was overcome in this scenario. Focusing on a subset of data helped to narrow down the overall trends.
+
+### Analysis of Outcomes Based on Launch Date
+
+	*During the month of July, successful and failed theater outcomes experienced a significant increase; 
+	*Canceled outcomes during the month of July plateaued and did not increase or decrease.
+	*Successful outcomes during July increased by 120- this leads us to question what the contributing factors are in why theater was more successful during the month of July.
+	*There appears to be a correlation between summer months (June-August) and the success of theater outcomes- is there a possibility to explore the trend in which summer leads to more time for outside activities?
+
+### Analysis of Outcomes Based on Goals
+
+
+	*Percentage of failed goals appeared to have no relation to overall outcomes
+	*Percentage successful and percentage canceled experienced a decline at 50000 or more
+	*Percentage canceled plateaued at 100% until the steep downward trend at 50000 or more
+
+### Challenges and Difficulties Encountered
+
+	*The data presented in both datasets does not encompass all time periods, making it difficult to analyze overarching trends.
+	*Within the Outcomes Based on Goal analysis, percentage failed was not included in the dataset (or was insignificant), skewing the trend more towards percentage sucessful and canceled.
+	*Within the Theater Outcomes by Launch data, there appears to be a data gap in canceled dates between March and May- does this mean there was a lack of data during this time period?
+	*Using the data available for both analyses was difficult due to the lack of underlying information, however, generalized trends can be pulled from both sets.
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+	*There is a correlation between summer months and successful theater outcomes
+	*Successful and failed theater outcomes decline from October to December
+
+- What can you conclude about the Outcomes based on Goals?
+
+	*Goals of 50000 or more tend to decline, presumably due to the limitations of a larger goal overall.
+
+- What are some limitations of this dataset?
+
+	*Number of participants
+	*Amount of time that both datasets encompasses
+	*Additional information is needed in order to complete the analysis of both datasets
+	*There is only a subset of overarching information within this dataset.
+
+- What are some other possible tables and/or graphs that we could create?
+
+	*Histogram to view the outcomes based on goals
+	*Box and whisker plot to determine trends of outcome based on launch date
